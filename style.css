@@ -294,6 +294,7 @@ body {
   color: #fff;
   background-color: var(--primary);
   cursor: pointer;
+  border-radius: 1rem;
 }
 
 /* Footer */
